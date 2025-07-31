@@ -6,8 +6,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-module.exports = {
-  experimental: {
-    allowedDevOrigins: ["http://192.168.125.174:3000"]
-  }
-}
